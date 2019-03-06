@@ -4,6 +4,7 @@
             "avis": {
                 "statement": {
                     "actions": [
+                        
                         "sts:AsssumeRole"
                     ],
                     "condition": {
